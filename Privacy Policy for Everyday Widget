@@ -1,0 +1,158 @@
+# Privacy Policy for Everyday Widget
+
+**Effective date: 15 November 2026**
+
+**App:** Everyday Widget  
+**Android package:** com.cizmi.everydaywidget  
+**Developer:** CIZMI  
+**Privacy contact:** support@cizmi.com
+
+Everyday Widget is a lightweight, standalone calendar, widget and personal notes app. This Privacy Policy explains what information the app accesses, how it is used, and the choices available to you.
+
+## 1. Our approach to privacy
+
+- **No advertisements**
+- **No advertising or analytics SDKs**
+- **No in-app purchases or subscriptions**
+- **No account or registration required**
+- **Personal notes and events are stored on your device**
+- **Core calendar, widget and note features work offline**
+
+The app does not upload your personal notes, photos, videos, handwriting or calendar entries to CIZMI or to its historical-content providers. We do not operate an app server that collects this personal content.
+
+Online extras contact external services to retrieve historical stories, pictures and an approximate country. These connections involve limited technical information, as explained below.
+
+## 2. Information stored on your device
+
+Everyday Widget stores information locally to provide the features you choose to use. This may include:
+
+- Notes, personal events, birthdays and anniversaries
+- Photos, videos and handwriting added to notes
+- Reminder schedules and notification preferences
+- Widget layouts, backgrounds, fonts, colors and saved styles
+- Language, country and weekend preferences
+- Downloaded historical stories, images and source credits
+
+This information is used to display your widgets and calendar, organize your personal entries, deliver reminders and remember your preferences.
+
+If you allow access to your device calendar, the app can read and display entries from selected calendars. This access is optional and read-only. Everyday Widget does not modify those calendars or upload their contents. Any synchronization performed by your existing calendar provider is separate from Everyday Widget.
+
+## 3. Online extras and external services
+
+**Online extras are enabled by default. You can turn them off in Settings.** Core offline features remain available when online extras are disabled.
+
+### Historical stories and pictures
+
+The app contacts Wikipedia, Wikimedia Commons and their image hosts to retrieve historical information, pictures and licensing details.
+
+These services receive your network IP address, a basic app identifier called a user-agent, and the information needed to answer a request, such as a language, calendar date, article title or image reference.
+
+Your personal notes, attached photos and videos, handwriting, birthdays and private calendar entries are not included in these requests.
+
+These services operate under their own privacy practices:
+
+[Wikimedia Foundation Privacy Policy](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy)
+
+### Automatic country selection
+
+When country selection is set to Auto, and both online extras and automatic country detection are enabled, the app may contact **country.is** to determine your country from your network IP address.
+
+The result helps select relevant holidays, weekend defaults and historical content. The app stores the returned country code and a refresh timestamp locally; it does not store the returned IP address. Country detection is attempted at most once every seven days.
+
+The app does not request GPS or precise-location access. An IP-based country estimate may be inaccurate, especially when using a VPN.
+
+You can disable automatic country detection or select a country manually.
+
+Service information: [country.is](https://country.is/)
+
+### Your controls
+
+Turning online extras off stops new requests for online content. Requests already in progress may finish, and previously downloaded content may remain visible.
+
+External providers are responsible for their own handling and retention of information they receive. Opening a source link launches your browser, where the destination website’s privacy practices apply.
+
+## 4. Permissions and device access
+
+Depending on the features you use, Everyday Widget may use:
+
+- **Internet and network access:** to retrieve online extras
+- **Read calendar:** to display selected device-calendar entries, if you grant permission
+- **Notifications:** to deliver reminders you enable
+- **Precise alarm access:** optionally, to improve reminder timing
+- **Restart detection:** to restore scheduled reminders and widget updates after your device restarts
+
+Photos and videos are selected through Android’s document picker. The app does not request unrestricted access to your photo or video library.
+
+The app does not request contacts, camera, microphone or precise-location permissions.
+
+You can manage permissions through your device’s Android settings. Disabling a permission may limit the feature that needs it.
+
+## 5. Photos, videos, handwriting and backups
+
+Photos selected for notes or widget backgrounds are processed into local copies without their original image metadata. Videos are copied in their original format and may retain metadata contained in the original file. Handwriting is stored locally as an image and editable drawing information.
+
+The app does not modify or delete your original gallery files.
+
+You can explicitly export a backup containing your settings and personal content. You choose the destination through Android’s document picker. If you select a cloud storage provider, that provider receives the exported file under its own privacy terms.
+
+**Exported backups are not encrypted by Everyday Widget.** Keep them in a location you trust and share them only with people you choose.
+
+The app does not automatically upload backups and is configured to disable Android automatic cloud backup for its app data.
+
+## 6. Security
+
+App-owned personal content is stored in Android’s private app storage. Online requests made by the app use HTTPS.
+
+Everyday Widget does not add advertising identifiers, analytics tracking or a CIZMI tracking server.
+
+Reminder notifications can contain your event or note information. The app uses private lock-screen notification visibility, but your device settings determine what is actually displayed.
+
+No device or method of storage is completely secure. Protect your device with a screen lock and take care when exporting or sharing backups.
+
+## 7. Retention and deletion
+
+Personal information stored by the app generally remains on your device until you remove it or clear the app’s data.
+
+You can:
+
+- Remove a note’s text and attachments, then save the change
+- Delete personal events through their editor
+- Remove imported attachments from saved notes
+- Clear Everyday Widget’s storage through Android settings
+- Uninstall the app to remove its app-owned local data
+
+Removed attachment copies are deleted when they are no longer referenced by another saved note or preset.
+
+Downloaded stories and pictures may remain cached until replaced, removed by cache management or deleted with the app’s data. Turning off online extras does not itself erase existing cached content.
+
+Deleting app data does not delete your original gallery files, entries held by another calendar provider or backups you exported elsewhere. Delete those separately through the relevant app or storage provider.
+
+We cannot remotely access or recover your locally stored notes. External providers control deletion and retention of information received by their services.
+
+## 8. Children and families
+
+The app does not require a user profile or request an age for registration. It contains no advertising SDKs or in-app purchases.
+
+The same local-storage protections apply to all users. Online extras still involve the external connections described in this policy. Parents and guardians can disable these features in Settings.
+
+If you believe a child has sent personal information directly to us through a support enquiry, contact support@cizmi.com so we can address the request.
+
+## 9. Contacting us and privacy requests
+
+If you email us, we receive your email address, your message and any attachments you choose to send. We use this information to respond to your enquiry and resolve the issue.
+
+Please avoid sending private notes or other sensitive material unless it is necessary for your request.
+
+We retain support correspondence only for as long as reasonably needed to handle the enquiry, resolve related issues or meet applicable legal obligations.
+
+To ask about this policy, request deletion of support correspondence or exercise applicable privacy rights, contact:
+
+**support@cizmi.com**
+
+Information held only on your device can be deleted using the controls described above. Requests concerning information held by an external provider should also be directed to that provider.
+
+## 10. Changes to this policy
+
+We may update this Privacy Policy when the app’s features or data-handling practices change. The current version will be published on this page with an updated effective date.
+
+Where required, material changes will also be communicated within the app.
